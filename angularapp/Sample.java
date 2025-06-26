@@ -1,1 +1,1 @@
-add a question to check the 
+System.out.Println("Quality Management application");
